@@ -2,7 +2,7 @@
 
 A tool for analyzing synergies between cards in a Commander (EDH) deck. It fetches oracle tags from [Scryfall](https://scryfall.com), scores card interactions using a user-defined synergy table, and produces an interactive graph and a scored CSV export.
 
-This project was built collaboratively with [Claude](https://claude.ai), Anthropic's AI assistant, which wrote or refined parts of the code.
+This project was built collaboratively with [Claude](https://claude.ai), Anthropic's AI assistant, which wrote or refined parts of the code and documentation.
 
 ![Example synergy graph](decklist_synergy.png)
 
