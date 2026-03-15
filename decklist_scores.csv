@@ -1,0 +1,62 @@
+name,category,synergy_score,connection_count,edhrec_rank,power_score,combined_score,tags
+Grist Voracious Larva,sacrifice,1087,56,4407,0.7384,0.8954,artifact-removal | copy-creature | enchantment-removal | etb-other-creature | gives-deathtouch | mill | recursion | repeatable-creature-tokens | repeatable-token-generator | self-mill
+The Meathook Massacre,sacrifice,969,47,501,0.9703,0.9225,blood-artist-ability | boardwipe | creature-removal | death-trigger | life-drain | lifegain | opponent-loses-life
+Grist the Hunger Tide,sacrifice,969,49,1830,0.8914,0.8909,creature-removal | mill | opponent-loses-life | repeatable-creature-tokens | repeatable-token-generator | sacrifice-outlet | self-mill | tribal | undergrowth
+Blood Artist,sacrifice,812,47,149,0.9912,0.8436,blood-artist-ability | death-trigger | life-drain | lifegain | opponent-loses-life
+Zulaport Cutthroat,sacrifice,812,47,243,0.9856,0.8413,blood-artist-ability | death-trigger | life-drain | lifegain | opponent-loses-life
+Six,graveyard,801,56,568,0.9663,0.8275,attack-trigger | card-advantage | mill | reanimate | recursion | self-mill
+Liliana Dreadhorde General,sacrifice,794,47,745,0.9558,0.8194,artifact-removal | boardwipe | card-advantage | creature-removal | death-trigger | draw | enchantment-removal | repeatable-creature-tokens | repeatable-token-generator
+Meren of Clan Nel Toth,graveyard,785,55,1476,0.9124,0.797,card-advantage | counters-matter | death-trigger | reanimate | recursion
+Twilight Diviner,graveyard,775,51,6174,0.6335,0.6799,copy-creature | etb-other-creature | mill | repeatable-creature-tokens | repeatable-token-generator | self-mill | surveil
+Jarad Golgari Lich Lord,sacrifice,728,57,1979,0.8825,0.7534,card-advantage | opponent-loses-life | recursion | sacrifice-outlet | undergrowth
+Dread Return,graveyard,720,57,518,0.9693,0.7836,reanimate | recursion | sacrifice-outlet
+Golgari Grave-Troll,graveyard,706,53,2471,0.8533,0.7295,card-advantage | counter-fuel | counters-matter | mill | recursion | self-mill | undergrowth
+Kokusho the Evening Star,sacrifice,536,47,2266,0.8655,0.6398,death-trigger | life-drain | lifegain | opponent-loses-life
+Sheoldred Whispering One,graveyard,533,51,667,0.9605,0.6761,creature-removal | multi-removal | reanimate | recursion
+Massacre Wurm,removal,528,45,515,0.9695,0.6769,boardwipe | creature-removal | death-trigger | opponent-loses-life
+Syr Konrad the Grim,sacrifice,527,45,244,0.9856,0.6828,death-trigger | mill | self-discard-matters | self-mill
+Yahenni Undying Partisan,sacrifice,497,47,1018,0.9396,0.6478,death-trigger | sacrifice-outlet
+Wretched Confluence,draw,488,51,11817,0.2984,0.3863,card-advantage | creature-removal | draw | multi-removal | opponent-loses-life | recursion
+Fiend Artisan,graveyard,403,47,4056,0.7592,0.5233,sacrifice-outlet | tutor-creature | undergrowth
+Kessig Cagebreakers,token,391,37,9072,0.4614,0.3975,attack-trigger | repeatable-creature-tokens | repeatable-token-generator | undergrowth
+Avenger of the Fallen,token,391,37,4326,0.7432,0.5102,attack-trigger | repeatable-creature-tokens | repeatable-token-generator | undergrowth
+Diresight,draw,361,40,2614,0.8448,0.5342,card-advantage | draw | mill | self-mill | surveil
+Phyrexian Plaguelord,sacrifice,361,47,12633,0.2499,0.2963,creature-removal | sacrifice-outlet | sacrifice-self
+Eternal Witness,graveyard,347,51,98,0.9942,0.5862,card-advantage | recursion
+Solemn Simulacrum,ramp,335,48,34,0.998,0.5811,card-advantage | death-trigger | draw | mana-ramp | tutor-land
+Wight of the Reliquary,graveyard,334,48,1407,0.9165,0.5479,mana-ramp | sacrifice-outlet | tutor-land | undergrowth
+Barrowgoyf,graveyard,312,39,4057,0.7592,0.4727,card-advantage | lifegain | mill | self-mill
+Stargaze,draw,310,40,5965,0.6459,0.4263,card-advantage | draw | mill | self-mill
+Skullclamp,draw,309,46,45,0.9974,0.5663,card-advantage | death-trigger | draw
+Malevolent Rumble,graveyard,300,38,3346,0.8014,0.4829,card-advantage | mana-ramp | mill | self-mill
+Awakening Zone,token,300,31,1611,0.9044,0.5241,mana-ramp | repeatable-creature-tokens | repeatable-token-generator
+Disciple of Bolas,draw,292,48,1471,0.9127,0.523,card-advantage | draw | lifegain | sacrifice-outlet
+Grisly Salvage,graveyard,292,37,1289,0.9235,0.5273,card-advantage | mill | self-mill
+Satyr Wayfinder,graveyard,292,37,1661,0.9014,0.5185,card-advantage | mill | self-mill
+Ophiomancer,token,292,29,826,0.951,0.5383,repeatable-creature-tokens | repeatable-token-generator
+Village Rites,draw,276,48,199,0.9882,0.5443,card-advantage | draw | sacrifice-outlet
+Gray Merchant of Asphodel,sacrifice,270,34,241,0.9857,0.54,life-drain | lifegain | opponent-loses-life
+Eldrazi Monument,token,258,45,1393,0.9173,0.506,gives-indestructible | lord | sacrifice-outlet
+Phyrexian Altar,sacrifice,244,45,313,0.9815,0.5238,mana-ramp | sacrifice-outlet
+Ashnod's Altar,sacrifice,244,45,129,0.9924,0.5282,mana-ramp | sacrifice-outlet
+Deathrite Shaman,ramp,162,35,580,0.9656,0.4719,lifegain | mana-dork | mana-ramp | opponent-loses-life
+Cankerbloom,removal,143,29,684,0.9594,0.4588,artifact-removal | enchantment-removal | sacrifice-self
+Spore Frog,removal,142,29,1129,0.933,0.4477,fog | sacrifice-self
+Verdant Catacombs,ramp,139,40,47,0.9973,0.4718,fetchland | sacrifice-self | tutor-land
+Sakura-Tribe Elder,ramp,133,35,104,0.9939,0.4671,mana-ramp | sacrifice-self | tutor-land
+Fauna Shaman,graveyard,99,29,1465,0.9131,0.4158,tutor-creature
+Assassin's Trophy,removal,58,10,126,0.9926,0.4248,artifact-removal | creature-removal | enchantment-removal
+Lightning Greaves,ramp,53,14,13,0.9993,0.4247,gives-haste
+Night's Whisper,draw,42,20,196,0.9884,0.4143,card-advantage | draw
+Ambition's Cost,draw,42,20,3265,0.8062,0.3414,card-advantage | draw
+Noxious Gearhulk,removal,42,19,927,0.945,0.3969,creature-removal | lifegain
+Acidic Slime,removal,36,9,1307,0.9225,0.3846,artifact-removal | enchantment-removal
+Foundation Breaker,removal,36,9,2980,0.8231,0.3448,artifact-removal | enchantment-removal
+Boseiju Who Endures,removal,36,9,78,0.9954,0.4137,artifact-removal | enchantment-removal
+Pathbreaker Ibex,token,30,10,3464,0.7944,0.33,attack-trigger
+Arcane Signet,ramp,28,14,3,0.9999,0.4111,commander-matters | mana-ramp
+Shriekmaw,removal,22,10,1484,0.9119,0.3726,creature-removal
+Sever the Bloodline,removal,22,10,16842,0.0,0.0078,creature-removal
+Ravenous Chupacabra,removal,22,10,960,0.9431,0.385,creature-removal
+Deep Forest Hermit,token,14,2,3614,0.7855,0.3175,lord | tribal
+Sol Ring,ramp,8,4,1,1.0,0.4,mana-ramp

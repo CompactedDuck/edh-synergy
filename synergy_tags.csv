@@ -1,0 +1,270 @@
+tag_a,tag_b,weight,label,archetype
+sacrifice-outlet,death-trigger,3,sacrifice engine core,aristocrats
+sacrifice-outlet,blood-artist-ability,3,sacrifice drain engine,aristocrats
+sacrifice-outlet,blood-artist-ability,3,sacrifice payoff,aristocrats
+sacrifice-outlet,recursion,3,sacrifice then recur,aristocrats
+sacrifice-outlet,repeatable-token-generator,2,tokens as fodder,aristocrats
+sacrifice-outlet,affinity-for-graveyard,2,sacrifice fills graveyard,aristocrats
+sacrifice-outlet,counter-fuel,2,sacrifice for counters,aristocrats
+sacrifice-outlet,card-advantage,2,sacrifice for value,aristocrats
+sacrifice-outlet,reanimate,2,sacrifice then reanimate,aristocrats
+sacrifice-outlet,boardwipe,2,sacrifice before wipe,aristocrats
+death-trigger,blood-artist-ability,3,death drain stacks,aristocrats
+death-trigger,blood-artist-ability,3,death payoff,aristocrats
+death-trigger,repeatable-token-generator,2,tokens die for value,aristocrats
+death-trigger,recursion,2,die then recur,aristocrats
+death-trigger,death-trigger,2,death triggers stack,aristocrats
+blood-artist-ability,blood-artist-ability,3,drain effects stack,aristocrats
+blood-artist-ability,repeatable-token-generator,2,tokens feed drain,aristocrats
+blood-artist-ability,boardwipe,3,wipe triggers mass drain,aristocrats
+blood-artist-ability,blood-artist-ability,2,payoffs stack,aristocrats
+mill,recursion,3,mill then recur,graveyard
+mill,reanimate,3,mill then reanimate,graveyard
+mill,affinity-for-graveyard,3,mill feeds graveyard count,graveyard
+mill,death-trigger,2,mill triggers death effects,graveyard
+mill,affinity-for-graveyard,3,mill grows affinity,graveyard
+mill,self-mill,2,mill synergy stacks,graveyard
+self-mill,recursion,3,self-mill then recur,graveyard
+self-mill,reanimate,3,self-mill then reanimate,graveyard
+self-mill,affinity-for-graveyard,3,self-mill feeds payoff,graveyard
+self-mill,affinity-for-graveyard,3,self-mill grows affinity,graveyard
+self-mill,death-trigger,2,self-mill triggers death effects,graveyard
+self-mill,self-mill,2,self-mill stacks,graveyard
+recursion,affinity-for-graveyard,2,recursion enables graveyard value,graveyard
+recursion,reanimate,2,recursion stacks with reanimate,graveyard
+recursion,death-trigger,2,recur creatures to trigger deaths,graveyard
+recursion,etb-other-creature,2,recur for repeated ETB,graveyard
+reanimate,etb-other-creature,3,reanimate triggers ETB,graveyard
+reanimate,affinity-for-graveyard,2,reanimate from stocked graveyard,graveyard
+affinity-for-graveyard,affinity-for-graveyard,2,graveyard payoffs stack,graveyard
+affinity-for-graveyard,self-mill,3,grows as graveyard fills,graveyard
+affinity-for-graveyard,mill,3,grows as graveyard fills,graveyard
+affinity-for-graveyard,recursion,2,affinity for full graveyard,graveyard
+repeatable-token-generator,synergy-token-creature,3,tokens into payoff,tokens
+repeatable-token-generator,repeatable-creature-tokens,3,tokens enable wide attack,tokens
+repeatable-token-generator,sacrifice-outlet,2,tokens as sacrifice fodder,tokens
+repeatable-token-generator,death-trigger,2,token deaths trigger effects,tokens
+repeatable-token-generator,blood-artist-ability,2,token deaths drain,tokens
+repeatable-token-generator,boardwipe,2,refill after wipe,tokens
+repeatable-token-generator,repeatable-token-generator,2,token generation stacks,tokens
+synergy-token-creature,repeatable-creature-tokens,3,tokens payoff for wide,tokens
+synergy-token-creature,synergy-token-creature,2,token payoffs stack,tokens
+repeatable-creature-tokens,repeatable-creature-tokens,2,wide strategies stack,tokens
+counter-fuel,counters-matter,3,counters engine core,counters
+counter-fuel,counter-doubler,3,more counters doubled,counters
+counter-fuel,synergy-proliferate,3,counters then proliferate,counters
+counter-fuel,counter-fuel,2,counter sources stack,counters
+counter-fuel-pt,counters-matter,3,power toughness counters payoff,counters
+counter-fuel-pt,counter-doubler,3,pt counters doubled,counters
+counter-fuel-pt,synergy-proliferate,3,pt counters proliferated,counters
+counters-matter,counters-matter,2,payoffs stack,counters
+counter-doubler,synergy-proliferate,3,double then proliferate,counters
+counter-doubler,counter-doubler,2,doubling stacks,counters
+synergy-proliferate,synergy-proliferate,2,proliferate stacks,counters
+loot,recursion,2,loot cards into graveyard to recur,card-advantage
+loot,reanimate,2,loot creatures into graveyard,card-advantage
+loot,affinity-for-graveyard,2,loot fills graveyard,card-advantage
+loot,self-mill,2,loot as soft mill,card-advantage
+blink,etb-other-creature,3,blink engine core,blink
+blink,etb-other-creature,3,blink for repeated payoff,blink
+blink,recursion,2,blink or recur for value,blink
+etb-other-creature,etb-other-creature,2,etb triggers stack,blink
+etb-other-creature,etb-other-creature,3,etb payoff,blink
+etb-other-creature,etb-other-creature,2,etb payoffs stack,blink
+magecraft,magecraft,3,spell triggers core,spellslinger
+magecraft,cost-reducer-instant,2,cheaper spells more triggers,spellslinger
+magecraft,cost-reducer-sorcery,2,cheaper spells more triggers,spellslinger
+magecraft,copy-spell,3,copies trigger magecraft again,spellslinger
+magecraft,magecraft,2,magecraft stacks,spellslinger
+magecraft,copy-spell,3,copies trigger spellslinger,spellslinger
+magecraft,cost-reducer-instant,2,more spells with discount,spellslinger
+magecraft,cost-reducer-sorcery,2,more spells with discount,spellslinger
+magecraft,magecraft,2,payoffs stack,spellslinger
+copy-spell,copy-spell,2,copy effects stack,spellslinger
+cost-reducer-instant,cost-reducer-instant,2,discounts stack,spellslinger
+landfall,mana-ramp,3,landfall engine core,lands
+landfall,extra-land,3,extra lands trigger landfall,lands
+landfall,bounceland,3,replay lands for landfall,lands
+landfall,landfall,2,landfall payoffs stack,lands
+mana-ramp,landfall,2,ramp triggers landfall,lands
+bounceland,landfall,3,bounce land retriggers landfall,lands
+lifegain,life-loss-matters,2,gain and drain,lifegain
+life-loss-matters,life-loss-matters,2,lifeloss payoffs stack,lifegain
+enchantress,enchantress,3,enchantress draw stacks,enchantress
+enchantress,synergy-aura,2,enchantress feeds aura synergy,enchantress
+enchantress,constellation,3,enchantress triggers constellation,enchantress
+constellation,constellation,2,constellation stacks,enchantress
+synergy-aura,synergy-aura,2,aura payoffs stack,enchantress
+affinity-for-equipment,affinity-for-equipment,3,equipment synergy core,equipment
+affinity-for-equipment,affinity-for-equipment,2,equipment payoffs stack,equipment
+affinity-for-equipment,affinity-for-equipment,2,equipment affinity stacks,equipment
+boardwipe,recursion,3,wipe then recur your creatures,control
+boardwipe,reanimate,3,wipe then reanimate,control
+boardwipe,gives-indestructible,2,survive your own wipe,control
+boardwipe,sacrifice-outlet,2,sacrifice before wipe,control
+boardwipe,repeatable-token-generator,2,refill board after wipe,control
+gives-indestructible,boardwipe,2,survive wipes,control
+wheel,self-discard-matters,3,wheel triggers discard payoff,wheel
+wheel,affinity-for-graveyard,2,wheel fills graveyard,wheel
+wheel,recursion,2,wheel then recur discarded,wheel
+wheel,high-hand-size-matters,3,wheel into large hand payoff,wheel
+wheel,wheel,2,wheel effects stack,wheel
+self-discard-matters,self-discard-matters,2,discard payoffs stack,wheel
+high-hand-size-matters,high-hand-size-matters,2,hand size payoffs stack,wheel
+lord,tribal,3,tribal engine core,tribal
+lord,lord,2,lords stack,tribal
+tribal,tribal,2,tribal payoffs stack,tribal
+affinity-for-equipment,gives-double-strike,3,equipment with double strike,voltron
+gives-double-strike,counter-fuel-pt,3,double strike with pt buffs,voltron
+gives-double-strike,counter-fuel,2,double strike with counters,voltron
+extra-combat,gives-double-strike,2,more attacks with double strike,voltron
+extra-combat,attack-trigger,3,multiple combats trigger attacks,combat
+attack-trigger,attack-trigger,2,attack triggers stack,combat
+attack-trigger,repeatable-creature-tokens,2,wide board more attack triggers,combat
+tax,sacrifice-outlet,2,stax enables forced sac,stax
+tax,recursion,2,stax pieces recurrable,stax
+cost-reducer-instant,magecraft,2,cheap instants more magecraft,spellslinger
+cost-reducer-sorcery,magecraft,2,cheap sorceries more magecraft,spellslinger
+affinity-for-graveyard,sacrifice-outlet,2,sacrifice to fill graveyard,graveyard
+etb-other-creature,blink,3,etb into blink loop,blink
+reanimate,blood-artist-ability,2,reanimate creature to drain again,aristocrats
+repeatable-token-generator,repeatable-creature-tokens,3,tokens into wide attack,tokens
+synergy-proliferate,counter-fuel,3,proliferate existing counters,counters
+lifegain,draw,2,lifegain triggers draw,lifegain
+boardwipe,blood-artist-ability,3,wipe triggers mass drain,aristocrats
+self-mill,affinity-for-spells-in-graveyard,3,mill fills spell graveyard,graveyard
+affinity-for-spells-in-graveyard,affinity-for-spells-in-graveyard,2,spell affinity stacks,graveyard
+loot,affinity-for-graveyard,2,loot builds graveyard,graveyard
+recursion,sacrifice-outlet,2,recur sacrifice outlets,aristocrats
+tutor-creature,etb-other-creature,3,tutor creature for ETB,toolbox
+tutor-creature,death-trigger,3,tutor creature to sacrifice,toolbox
+tutor-creature,recursion,2,tutor recursion target,toolbox
+tutor-creature,reanimate,2,tutor reanimate target,toolbox
+tutor-creature,sacrifice-outlet,2,tutor sacrifice outlet,toolbox
+tutor-creature,blood-artist-ability,2,tutor drain piece,toolbox
+tutor-creature,tutor-creature,2,tutor effects stack,toolbox
+tutor-artifact,sacrifice-outlet,2,tutor sacrifice outlet,toolbox
+tutor-artifact,mana-ramp,2,tutor ramp piece,toolbox
+tutor-land,landfall,3,tutor land triggers landfall,lands
+tutor-land,mana-ramp,2,tutor land for ramp,lands
+gives-haste,recursion,3,haste on recurred creature,graveyard
+gives-haste,reanimate,3,haste on reanimated creature,graveyard
+gives-haste,etb-other-creature,2,haste enables immediate ETB value,blink
+gives-haste,attack-trigger,2,haste enables attack triggers immediately,combat
+gives-haste,gives-haste,2,haste enablers stack,graveyard
+persist,sacrifice-outlet,3,persist loops with sacrifice,aristocrats
+persist,death-trigger,3,persist death triggers repeatedly,aristocrats
+persist,blood-artist-ability,3,persist loops drain engine,aristocrats
+persist,counter-fuel,2,persist puts minus counters on,counters
+gives-persist,sacrifice-outlet,3,give persist to loop sacrifice,aristocrats
+gives-persist,death-trigger,3,give persist for death triggers,aristocrats
+gains-undying,sacrifice-outlet,3,undying loops with sacrifice,aristocrats
+gains-undying,death-trigger,3,undying death triggers repeatedly,aristocrats
+gains-undying,blood-artist-ability,3,undying loops drain engine,aristocrats
+gives-undying,sacrifice-outlet,3,give undying to loop sacrifice,aristocrats
+gives-undying,death-trigger,3,give undying for death triggers,aristocrats
+flicker,etb-other-creature,3,flicker engine core,blink
+flicker-creature,etb-other-creature,3,flicker creature for ETB,blink
+flicker-creature,recursion,2,flicker as soft recursion,blink
+flicker-creature,death-trigger,2,flicker around death triggers,blink
+copy-creature,etb-other-creature,3,copy creature for extra ETB,blink
+copy-creature,death-trigger,2,copy creature for extra death trigger,aristocrats
+copy-creature,blood-artist-ability,2,copy drain piece,aristocrats
+copy-creature,recursion,2,copy recursion value pieces,graveyard
+repeatable-treasures,sacrifice-outlet,2,treasures as sacrifice fodder,aristocrats
+repeatable-treasures,mana-ramp,2,treasures for mana,ramp
+synergy-treasure,sacrifice-outlet,2,treasures as sacrifice fodder,aristocrats
+synergy-treasure,mana-ramp,2,treasures for mana,ramp
+repeatable-food,lifegain,2,food triggers lifegain payoff,lifegain
+repeatable-clues,draw,2,clues trigger draw payoffs,card-advantage
+repeatable-clues,card-advantage,2,clues for card advantage,card-advantage
+energy-generator,synergy-energy,3,energy engine core,energy
+surveil,recursion,2,surveil then recur,graveyard
+surveil,reanimate,2,surveil into reanimate,graveyard
+surveil,affinity-for-graveyard,2,surveil fills graveyard,graveyard
+surveil,self-mill,2,surveil as soft mill,graveyard
+surveil,surveil,2,surveil stacks,graveyard
+threshold,self-mill,3,self-mill enables threshold,graveyard
+threshold,mill,3,mill enables threshold,graveyard
+threshold,affinity-for-graveyard,2,graveyard count threshold,graveyard
+undergrowth,self-mill,3,undergrowth needs full graveyard,graveyard
+undergrowth,mill,3,mill enables undergrowth,graveyard
+affinity-undergrowth,self-mill,3,undergrowth affinity needs graveyard,graveyard
+affinity-undergrowth,mill,3,mill grows undergrowth affinity,graveyard
+delve,self-mill,3,self-mill fuels delve,graveyard
+delve,mill,3,mill fuels delve,graveyard
+gives-escape,self-mill,3,self-mill fuels escape,graveyard
+gives-escape,mill,3,mill fuels escape,graveyard
+gives-dredge,recursion,2,dredge fills graveyard for recursion,graveyard
+gives-dredge,self-mill,2,dredge enables self-mill,graveyard
+mana-dork,sacrifice-outlet,2,mana dork as sacrifice fodder,aristocrats
+mana-dork,death-trigger,2,mana dork death trigger,aristocrats
+mana-dork,mana-dork,2,mana dorks stack,ramp
+fetchland,affinity-for-graveyard,2,fetch puts land in graveyard,graveyard
+fetchland,self-mill,1,fetch as soft graveyard filler,graveyard
+cantrip,magecraft,2,cantrip triggers magecraft,spellslinger
+cantrip,card-advantage,1,cantrip replaces itself,card-advantage
+pinger,gives-deathtouch,3,pinger with deathtouch kills anything,combat
+pinger,death-trigger,2,pinger triggers deaths,aristocrats
+pinger,blood-artist-ability,2,pinger triggers drain,aristocrats
+gives-deathtouch,sacrifice-outlet,2,deathtouch creature as removal then sac,aristocrats
+gives-deathtouch,pinger,3,deathtouch pinger kills anything,combat
+gives-protection,boardwipe,2,protection survives your wipe,control
+gains-haste,recursion,2,haste on recurred creatures,graveyard
+gains-haste,reanimate,2,haste on reanimated creatures,graveyard
+storm-count-matters,cantrip,2,cantrips build storm count,spellslinger
+storm-count-matters,magecraft,2,storm count and magecraft together,spellslinger
+extra-turn,extra-turn,2,extra turns stack,extra-turn
+extra-turn,attack-trigger,2,extra turn extra attack triggers,combat
+extra-turn,extra-combat,2,extra turns with extra combat,combat
+monarch-matters,draw,2,monarch triggers draw,card-advantage
+monarch-matters,card-advantage,2,monarch for card advantage,card-advantage
+synergy-poison,gives-infect,3,poison infect synergy core,infect
+synergy-poison,synergy-proliferate,3,proliferate poison counters,infect
+gives-infect,synergy-proliferate,3,proliferate infect counters,infect
+gives-toxic,synergy-proliferate,3,proliferate toxic counters,infect
+oil-counters-matter,synergy-proliferate,3,proliferate oil counters,counters
+loot,self-discard-matters,2,loot triggers discard payoff,wheel
+loot,madness,2,loot enables madness,graveyard
+madness,self-discard-matters,2,madness and discard payoff,wheel
+madness,loot,2,loot enables madness,graveyard
+commander-matters,recursion,2,recur your commander,graveyard
+commander-matters,gives-haste,2,haste on commander,combat
+commander-tax-matters,cost-reducer,3,cost reducer offsets commander tax,commander
+commander-tax-evasion,recursion,2,avoid tax by recurring,graveyard
+sacrifice-self,death-trigger,3,self-sacrifice triggers death effects,aristocrats
+sacrifice-self,blood-artist-ability,3,self-sacrifice triggers drain,aristocrats
+sacrifice-self,sacrifice-outlet,2,self-sacrifice as free outlet,aristocrats
+sacrifice-self,recursion,3,self-sacrifice then recur,graveyard
+sacrifice-self,reanimate,2,self-sacrifice then reanimate,graveyard
+sacrifice-self,etb-other-creature,3,self-sacrifice on ETB loops with recur,graveyard
+sacrifice-self,affinity-for-graveyard,2,self-sacrifice fills graveyard,graveyard
+fog,recursion,3,recur fog effect every turn,graveyard
+fog-limited,recursion,3,recur limited fog every turn,graveyard
+fog-limited,reanimate,2,reanimate fog blocker,graveyard
+fog,reanimate,2,reanimate fog effect,graveyard
+creature-removal,recursion,2,recur removal creature,control
+creature-removal,etb-other-creature,2,removal on ETB recurrable,control
+artifact-removal,recursion,2,recur artifact removal,control
+enchantment-removal,recursion,2,recur enchantment removal,control
+multi-removal,recursion,2,recur multi-removal creature,control
+multi-removal,etb-other-creature,2,multi-removal ETB recurrable,control
+gives-evoke,sacrifice-outlet,2,evoke as free sacrifice,aristocrats
+gives-evoke,death-trigger,2,evoke triggers death effects,aristocrats
+gives-evoke,recursion,2,recur evoke creatures cheaply,graveyard
+synergy-proliferate,counter-fuel,3,proliferate existing counters,counters
+synergy-proliferate,death-trigger,2,proliferate then sacrifice,aristocrats
+virtual-proliferate,counter-fuel,3,virtual proliferate counters,counters
+life-drain,recursion,3,recur drain creature repeatedly,aristocrats
+life-drain,reanimate,3,reanimate drain creature for ETB,aristocrats
+life-drain,blood-artist-ability,3,drain effects stack,aristocrats
+life-drain,death-trigger,2,drain piece in death loop,aristocrats
+life-drain,sacrifice-outlet,2,sacrifice then drain on recur,aristocrats
+life-drain,etb-other-creature,3,drain triggers on ETB,aristocrats
+life-drain,life-drain,3,drain effects stack,aristocrats
+life-drain,boardwipe,2,drain after mass wipe,aristocrats
+opponent-loses-life,blood-artist-ability,3,opponent life loss stacks with drain,aristocrats
+opponent-loses-life,life-drain,3,opponent life loss stacks,aristocrats
+opponent-loses-life,recursion,2,recur life loss effects,aristocrats
+opponent-loses-life,death-trigger,2,death triggers opponent life loss,aristocrats
+opponent-loses-life,sacrifice-outlet,2,sacrifice for opponent life loss,aristocrats

@@ -1,0 +1,90 @@
+name,category,synergy_score,connection_count,edhrec_rank,power_score,combined_score,tags
+"Teval, the Balanced Scale",graveyard,1340,70,3120,0.6744,0.8697,attack-trigger | mana-ramp | mill | reanimate | recursion | repeatable-creature-tokens | repeatable-token-generator | self-mill
+Hedge Shredder,graveyard,1139,70,1389,0.8551,0.852,attack-trigger | mana-ramp | mill | reanimate | recursion | self-mill
+Six,graveyard,1100,65,568,0.9408,0.8689,attack-trigger | card-advantage | mill | reanimate | recursion | self-mill
+Colossal Grave-Reaver,graveyard,1089,64,2332,0.7566,0.7903,attack-trigger | mill | reanimate | recursion | self-mill
+Will of the Sultai,graveyard,1059,61,3465,0.6383,0.7295,mill | reanimate | recursion | self-mill
+Awaken the Honored Dead,graveyard,961,62,5894,0.3847,0.5842,artifact-removal | card-advantage | creature-removal | enchantment-removal | mill | recursion | self-mill
+The Scarab God,sacrifice,933,66,1699,0.8227,0.7468,card-advantage | copy-creature | death-trigger | opponent-loses-life | recursion | repeatable-creature-tokens | repeatable-token-generator | tribal
+Lost Monarch of Ifnir,graveyard,916,64,3467,0.6381,0.6654,card-advantage | mill | opponent-loses-life | recursion | self-mill | tribal
+Overwhelming Remorse,graveyard,886,48,6258,0.3467,0.5354,affinity-for-graveyard | affinity-undergrowth | creature-removal | undergrowth
+Victimize,sacrifice,842,69,130,0.9865,0.7716,reanimate | recursion | sacrifice-outlet
+Meren of Clan Nel Toth,sacrifice,841,65,1476,0.846,0.715,card-advantage | counters-matter | death-trigger | reanimate | recursion
+Grapple with the Past,graveyard,829,62,2140,0.7767,0.6819,card-advantage | mill | recursion | self-mill
+Life from the Loam,graveyard,829,62,670,0.9302,0.7433,card-advantage | mill | recursion | self-mill
+Nyx Weaver,graveyard,829,62,1625,0.8304,0.7034,card-advantage | mill | recursion | self-mill
+Dakmor Salvage,graveyard,829,62,1311,0.8632,0.7165,card-advantage | mill | recursion | self-mill
+Ipnu Rivulet,sacrifice,795,62,9150,0.0448,0.3739,mill | sacrifice-outlet | self-mill
+"Syr Konrad, the Grim",sacrifice,773,56,244,0.9746,0.736,death-trigger | mill | self-discard-matters | self-mill
+Stitcher's Supplier,sacrifice,769,56,676,0.9295,0.7161,death-trigger | mill | self-mill
+"Sidisi, Brood Tyrant",graveyard,714,54,3476,0.6372,0.5746,attack-trigger | mill | repeatable-creature-tokens | repeatable-token-generator | self-mill
+Afterlife from the Loam,graveyard,676,60,4807,0.4982,0.502,delve | reanimate | recursion
+Titans' Nest,graveyard,647,54,9579,0.0,0.2897,mana-ramp | mill | self-mill | surveil
+Hedron Crab,graveyard,614,59,1621,0.8309,0.6073,landfall | mill | self-mill
+Drownyard Temple,graveyard,594,68,1993,0.792,0.5828,mana-ramp | reanimate | recursion
+Gravecrawler,graveyard,568,62,713,0.9257,0.6246,reanimate | recursion | tribal
+Genesis Wave,graveyard,562,57,1414,0.8525,0.5926,card-advantage | extra-land | mana-ramp | mill | self-mill
+Skull Prophet,graveyard,555,56,1365,0.8576,0.5915,mana-dork | mana-ramp | mill | self-mill
+Cache Grab,graveyard,546,56,5365,0.44,0.4205,card-advantage | lifegain | mill | self-mill | tribal
+Conduit of Worlds,graveyard,544,60,517,0.9461,0.622,reanimate | recursion
+"Muldrotha, the Gravetide",graveyard,544,60,1145,0.8806,0.5958,reanimate | recursion
+Ripples of Undeath,graveyard,494,47,578,0.9398,0.5971,card-advantage | mill | self-mill
+Fact or Fiction,graveyard,494,47,625,0.9349,0.5951,card-advantage | mill | self-mill
+Memorial to Folly,sacrifice,433,61,2922,0.695,0.4719,card-advantage | recursion | sacrifice-self
+Cephalid Coliseum,sacrifice,398,44,857,0.9106,0.5425,card-advantage | draw | loot | sacrifice-self | threshold
+The Gitrog Monster,sacrifice,397,66,894,0.9068,0.5405,card-advantage | draw | extra-land | mana-ramp | sacrifice-outlet
+River Kelpie,sacrifice,390,56,3540,0.6305,0.4268,card-advantage | death-trigger | draw | persist | tax
+Trailtracker Scout,graveyard,390,65,3460,0.6389,0.4302,card-advantage | mana-dork | mana-ramp | recursion
+Eaten Alive,sacrifice,360,60,3220,0.6639,0.4268,creature-removal | sacrifice-outlet
+Tireless Tracker,token,351,62,598,0.9377,0.5322,card-advantage | draw | landfall | repeatable-clues | repeatable-token-generator
+Rampaging Baloths,token,335,41,357,0.9628,0.5351,landfall | repeatable-creature-tokens | repeatable-token-generator
+"Multani, Yavimaya's Avatar",graveyard,318,58,1779,0.8144,0.4681,card-advantage | recursion
+Phyrexian Reclamation,graveyard,318,58,910,0.9051,0.5044,card-advantage | recursion
+Timeless Witness,graveyard,318,58,1211,0.8737,0.4919,card-advantage | recursion
+Teval's Judgment,token,310,43,2104,0.7804,0.451,card-advantage | draw | mana-ramp | repeatable-creature-tokens | repeatable-token-generator | repeatable-treasures
+Insidious Roots,token,308,36,1356,0.8585,0.4813,mana-ramp | repeatable-creature-tokens | repeatable-token-generator | synergy-token-creature | tribal
+Bane of Progress,removal,252,33,1233,0.8714,0.4614,artifact-removal | boardwipe | enchantment-removal
+Crux of Fate,removal,228,35,1531,0.8403,0.4382,boardwipe | creature-removal | tribal
+Riveteers Overlook,sacrifice,221,60,714,0.9256,0.4692,fetchland | lifegain | sacrifice-self | tutor-land
+Command Beacon,sacrifice,219,32,180,0.9813,0.4906,commander-matters | commander-tax-evasion | sacrifice-self
+Sakura-Tribe Elder,sacrifice,216,52,104,0.9892,0.4924,mana-ramp | sacrifice-self | tutor-land
+Foreboding Landscape,sacrifice,214,54,1705,0.8221,0.4247,card-advantage | draw | fetchland | sacrifice-self | tutor-land
+In Garruk's Wake,removal,204,33,1392,0.8548,0.4333,boardwipe | creature-removal
+Kheru Goldkeeper,token,200,38,4783,0.5007,0.2898,mana-ramp | repeatable-token-generator | repeatable-treasures
+"Ob Nixilis, the Fallen",other,197,52,1948,0.7967,0.4069,landfall | opponent-loses-life
+Terramorphic Expanse,sacrifice,193,51,28,0.9972,0.4853,fetchland | sacrifice-self | tutor-land
+Evolving Wilds,sacrifice,193,51,16,0.9984,0.4858,fetchland | sacrifice-self | tutor-land
+Lethal Scheme,draw,191,43,1504,0.8431,0.4228,card-advantage | creature-removal | draw | loot
+"Tatyova, Benthic Druid",draw,176,41,445,0.9536,0.4603,card-advantage | draw | landfall | lifegain
+Ghost Quarter,sacrifice,169,47,728,0.9241,0.4453,sacrifice-self | tutor-land
+Avenger of Zendikar,other,155,32,264,0.9725,0.4584,landfall | tribal
+Treasure Cruise,draw,153,30,614,0.936,0.4429,card-advantage | delve | draw
+Heritage Reclamation,draw,147,45,3106,0.6758,0.3361,artifact-removal | cantrip | card-advantage | draw | enchantment-removal
+Tear Asunder,removal,144,24,909,0.9052,0.4266,artifact-removal | creature-removal | enchantment-removal
+Assassin's Trophy,removal,144,24,126,0.9869,0.4593,artifact-removal | creature-removal | enchantment-removal
+Waterlogged Grove,sacrifice,142,37,1059,0.8895,0.4194,card-advantage | draw | sacrifice-self
+Roadside Reliquary,sacrifice,142,37,3372,0.648,0.3228,card-advantage | draw | sacrifice-self
+Swiftfoot Boots,other,124,28,12,0.9989,0.4551,gives-haste
+Arcane Signet,ramp,100,41,3,0.9998,0.4447,commander-matters | mana-ramp
+Farseek,ramp,95,26,22,0.9978,0.4417,mana-ramp | tutor-land
+Noxious Gearhulk,removal,76,38,927,0.9033,0.3954,creature-removal | lifegain
+Sol Ring,ramp,50,16,1,1.0,0.4224,mana-ramp
+Command Tower,other,50,25,2,0.9999,0.4223,commander-matters
+Ash Barrens,other,48,21,188,0.9805,0.4137,tutor-land
+Golgari Rot Farm,ramp,36,6,305,0.9683,0.4034,bounceland
+Fetid Pools,draw,21,10,832,0.9132,0.3747,card-advantage | draw
+Kishla Skimmer,draw,21,10,5497,0.4262,0.1799,card-advantage | draw
+Forest,other,0,0,,,,
+Overrun,other,0,0,1711,0.8215,0.3286,
+Dreamroot Cascade,other,0,0,187,0.9806,0.3922,
+Exotic Orchard,other,0,0,9,0.9992,0.3997,
+Hinterland Harbor,other,0,0,108,0.9888,0.3955,
+Llanowar Wastes,other,0,0,152,0.9842,0.3937,
+Island,other,0,0,,,,
+Sunken Hollow,other,0,0,82,0.9915,0.3966,
+Woodland Cemetery,other,0,0,122,0.9874,0.3949,
+Wonder,other,0,0,852,0.9112,0.3645,
+Opulent Palace,other,0,0,367,0.9618,0.3847,
+Craterhoof Behemoth,other,0,0,350,0.9636,0.3854,
+Swamp,other,0,0,,,,
+Mosswort Bridge,other,0,0,192,0.9801,0.392,
