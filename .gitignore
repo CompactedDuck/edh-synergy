@@ -1,6 +1,5 @@
 *.json
 scryfall_bulk.json
-*_synergy.png
 __pycache__/
 venv/
 .DS_Store
